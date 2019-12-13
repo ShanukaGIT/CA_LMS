@@ -16,7 +16,7 @@
         <section class="content">
 
             <div class="row">
-                <!-- --------------------------- section 1------------------------------------- -->
+                <!-- ------------------ section 1---------------------------- -->
                 <section class="col-lg-12 connectedSortable">
  
                     <div class="box box-info">

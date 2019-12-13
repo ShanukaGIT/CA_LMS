@@ -31,3 +31,5 @@ Route::get('/new_member', 'MemberController@addmember')->name('new_member');
 Route::get('/new_user', 'UserController@adduser');
 Route::post('/savemember', 'MemberController@store');
 Route::get('/search_member', 'MemberController@searcmember');
+Route::get('/details_member', 'MemberController@searcmember');
+

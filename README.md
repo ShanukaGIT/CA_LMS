@@ -1,6 +1,7 @@
-# Laravel Admin Dashboard
+# Libarary Management System (www.Codeiader.com)
+(laravel 5+)
 
-1. Clone this repo to your local machine using https://github.com/EgHoxhaj/laravel-admin-dashboard.git
+1. Clone this repo to your local machine 
 
 2. Run composer install
 
@@ -12,11 +13,12 @@
 
 6. Run php artisan config:cache
 
-7. Register
+7. Run Migrate and seed
 
-8. Login
+8. Login (default Enami - info@codeaider.com , Password - codeaider)
 
 
-Template: AdminLTE Bootstrap Admin Dashboard
+
+Project - https://www.codeaider.com
 
 
