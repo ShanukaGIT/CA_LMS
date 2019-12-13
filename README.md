@@ -1,5 +1,5 @@
 # Libarary Management System (www.Codeiader.com)
-(laravel 5+)
+laravel 5+ && bootstrap 4
 
 1. Clone this repo to your local machine 
 
@@ -15,7 +15,9 @@
 
 7. Run Migrate and seed
 
-8. Login (default Enami - info@codeaider.com , Password - codeaider)
+8. Run serve
+
+9. Login (default Enami - info@codeaider.com , Password - codeaider)
 
 
 
